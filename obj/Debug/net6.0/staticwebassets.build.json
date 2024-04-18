@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fs5ZGiI0JlGYr02U53OJ+5SGcl2o6D9fWkhQQ6B1Yhw=",
+  "Source": "Testing_AuthTOTP",
+  "BasePath": "_content/Testing_AuthTOTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
